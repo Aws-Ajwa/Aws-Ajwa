@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on finishing my UNI
+🌱 I’m currently learning JAVA
+👯 I’m looking to collaborate on web and mobile apps
+📫 How to reach me: instagram -->https://www.instagram.com/awsajwa/
+
+
+
 <!--
 **awsabu/awsabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
