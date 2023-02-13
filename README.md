@@ -2,7 +2,7 @@
 
 🔭 I’m currently studing (Software engineering) at BAU
 
-🌱 I’m currently learning JAVA
+🌱 I’m currently learning JAVA and PHP
 
 👯 I’m looking to collaborate on web and mobile apps
 
