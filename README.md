@@ -8,7 +8,7 @@
 
 📫 How to reach me: instagram -->https://www.instagram.com/awsajwa/
 
-📚My blog: https://learntechfor.me
+📚My blog: https://awsajwa.hashnode.dev/
 
 
 
