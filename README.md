@@ -26,5 +26,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 GitHub Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aws-Ajwa&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+## 📊 GitHub Activity
+| ![Aws's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aws-ajwa&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aws-Ajwa&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aws-Ajwa&langs_count=8&theme=radical&layout=compact) | 
