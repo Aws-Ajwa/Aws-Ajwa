@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-🔭 I’m currently studing (Software engineering) at BAU
+🔭 I’m currently studying (Software engineering) at BAU
 
-🌱 I’m currently learning JAVA and PHP
+🌱 I’m currently PHP and JS
 
-👯 I’m looking to collaborate on web and mobile apps
+👯 I’m looking to collaborate on web or mobile apps
 
-📫 How to reach me: instagram -->https://www.instagram.com/awsajwa/
-
+📫 How to reach me: Linkedin --> https://www.linkedin.com/in/aws-ajwa/ 
+                    Instagram --> https://www.instagram.com/awsajwa/
+                    
 📚My blog: https://awsajwa.hashnode.dev/
 
 
 
 <!--
-**awsabu/awsabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
