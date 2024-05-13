@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋<br><br>🔭 I’m currently studying (Software engineering) at BAU<br><br>🌱 I’m currently PHP and JS<br><br>👯 I’m looking to collaborate on web or mobile apps<br><br>📚My blog:https://awsajwa.hashnode.dev/
+Hi there 👋<br><br>🔭 I’m currently studying (Software engineering) at BAU<br><br>🌱 I’m currently learning PHP and JS<br><br>👯 I’m looking to collaborate on web or mobile apps<br><br>📚My blog:https://awsajwa.hashnode.dev/
 
 
 ## 🌐 Socials:
