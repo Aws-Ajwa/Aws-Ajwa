@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋<br><br>🔭 I’m currently studying (Software engineering) at BAU<br><br>🌱 I’m currently learning PHP and JS<br><br>👯 I’m looking to collaborate on web apps<br><br>
+Hi there 👋<br><br>🔭 I have a bachelor's degree in Software engineering from BAU<br><br>👯 I’m looking to collaborate on Odoo ERP<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aws.ajwa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Awsajwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aws-ajwa/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16578316) 
